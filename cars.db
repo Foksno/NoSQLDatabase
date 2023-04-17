@@ -1,9 +1,7 @@
-{"ubezpieczony":"TAK","benzyna":"TAK","uszkodzony":"TAK","naped":"TAK","_id":"0ue0dRvA8favCfdN"}
-{"ubezpieczony":"TAK","benzyna":"TAK","uszkodzony":"NIE","naped":"NIE","_id":"j3a5HoHM4zdQCcu7"}
-{"ubezpieczony":"NIE","benzyna":"NIE","uszkodzony":"NIE","naped":"NIE","_id":"tzGnsEycC5mOE5XQ"}
-{"ubezpieczony":"TAK","benzyna":"TAK","uszkodzony":"TAK","naped":"TAK","_id":"0ue0dRvA8favCfdN"}
-{"ubezpieczony":"NIE","benzyna":"NIE","uszkodzony":"NIE","naped":"NIE","_id":"kqWP3mZP0JY4fGus"}
-{"ubezpieczony":"TAK","benzyna":"TAK","uszkodzony":"TAK","naped":"TAK","_id":"cLnKIFJtgUpzORLm"}
-{"$$deleted":true,"_id":"tzGnsEycC5mOE5XQ"}
-{"ubezpieczony":"TAK","benzyna":"TAK","uszkodzony":"TAK","naped":"NIE","_id":"0ue0dRvA8favCfdN"}
 {"ubezpieczony":"TAK","benzyna":"TAK","uszkodzony":"TAK","naped":"BRAK","_id":"0ue0dRvA8favCfdN"}
+{"ubezpieczony":"TAK","benzyna":"TAK","uszkodzony":"TAK","naped":"TAK","_id":"cLnKIFJtgUpzORLm"}
+{"ubezpieczony":"TAK","benzyna":"TAK","uszkodzony":"NIE","naped":"NIE","_id":"j3a5HoHM4zdQCcu7"}
+{"ubezpieczony":"NIE","benzyna":"NIE","uszkodzony":"NIE","naped":"NIE","_id":"kqWP3mZP0JY4fGus"}
+{"$$deleted":true,"_id":"0ue0dRvA8favCfdN"}
+{"ubezpieczony":"TAK","benzyna":"TAK","uszkodzony":"TAK","naped":"NIE","_id":"cLnKIFJtgUpzORLm"}
+{"ubezpieczony":"NIE","benzyna":"NIE","uszkodzony":"NIE","naped":"NIE","_id":"qRFxdWibmWeO5opd"}
