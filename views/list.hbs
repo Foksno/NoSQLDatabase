@@ -1,0 +1,33 @@
+<h1 class="display-1 my-2">List page</h1>
+<form method="get" id="list">
+    <table class="table">
+        <tr>
+            <th scope="col">_id</th>
+            <th scope="col">ubezpieczony</th>
+            <th scope="col">benzyna</th>
+            <th scope="col">uszkodzony</th>
+            <th scope="col">napęd 4x4</th>
+            <th scope="col"></th>
+        </tr>
+        {{#each docs}}
+        <tr>
+            <td>{{this._id}}</td>
+            <td>{{this.ubezpieczony}}</td>
+            <td>{{this.benzyna}}</td>
+            <td>{{this.uszkodzony}}</td>
+            <td>{{this.naped}}</td>
+            <td>
+                <div class="btn-danger btn" onclick="handle_delete('{{_id}}')">Delete</div>
+            </td>
+        </tr>
+        {{/each}}
+    </table>
+</form>
+
+<script>
+    function handle_delete(id) {
+        if (a = confirm(`Chcesz usunąć podany wiersz o id = ${id}?`)) {
+            location.href = `delete?id=${id}`;
+        }
+    }
+</script>
